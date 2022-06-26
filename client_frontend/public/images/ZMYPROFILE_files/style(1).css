@@ -1,0 +1,233 @@
+/* Enter your custom styles here */
+.Red {
+    padding: 1rem;
+    /*background-color: #dd4b39 !important;*/
+    background-color: #ea4335 !important;
+
+    color: white !important;
+}
+
+.Yellow {
+    padding: 1rem;
+    /*background-color: #f39c12 !important;*/
+    background-color: #fbbc05 !important;
+
+}
+
+.Green {
+    padding: 1rem;
+    /*background-color: #00a65a !important;*/
+    background-color: #34a853 !important;
+
+}
+
+.White .sapMText.sapMObjLTitle {
+    vertical-align: top;
+    word-break: break-word;
+    color: #f7f7f7;
+    font-size: 1.125rem;
+    font-weight: normal;
+    line-height: 1.5rem;
+}
+
+.Bold .sapUxAPAnchorBar .sapUxAPAnchorBarButton.sapUxAPAnchorBarButtonSelected .sapMBtnContent,
+.sapUxAPAnchorBar .sapUxAPAnchorBarButton.sapUxAPAnchorBarButtonSelected .sapMBtnIcon {
+    color: #000000;
+    font-weight: bold;
+}
+
+.Ocolor .sapMIBar-CTX .sapMTitle {
+    font-weight: 700;
+    color: white;
+    font-family: system-ui;
+}
+
+.sapUxAPObjectPageHeaderIdentifier.sapUxAPObjectPageHeaderIdentifierForce,
+.sapUxAPObjectPageHeaderStickied .sapUxAPObjectPageHeaderIdentifier {
+    display: block;
+    background-color: #afcbe3;
+}
+
+.Header {
+    display: block;
+    background-color: #afcbe3;
+}
+
+
+.sapUxAPAnchorBar .sapUxAPAnchorBarScrollContainer .sapMBarChild {
+    display: inline-block;
+    font-weight: bold;
+}
+
+.sapMOH.sapMOHBgTransparent,
+.sapMOHC.sapMOHBgTransparent {
+    background-color: #afcbe3;
+}
+
+.sapMTextMaxLine {
+    overflow: hidden;
+    font-weight: bold;
+}
+
+/*.Ocolor .sapMITBTextOnly .sapMITBFilterDefault.sapMITBSelected>.sapMITBText {*/
+/*color: #0079ad;*/
+/*    color: #ea4335;*/
+/*    font-family: system-ui;*/
+/*    font-weight: 700;*/
+/*}*/
+
+.sapUiBlockLayoutBig .sapUiBlockLayoutRow .sapUiBlockLayoutCell:last-child .sapUiBlockCellContent,
+.sapUiBlockLayoutMedium .sapUiBlockLayoutRow .sapUiBlockLayoutCell:last-child .sapUiBlockCellContent {
+    padding-right: 2rem;
+    background: #81c0f5;
+}
+
+/*Anchor */
+html.sapUiMedia-Std-Desktop .sapUxAPAnchorBar.sapMTB,
+html.sapUiMedia-Std-Desktop .sapMSplitContainer.sapMSplitContainerHideMode .sapMSplitContainerDetail .sapUxAPAnchorBar.sapMTB {
+    /*padding-left: 2rem;*/
+    background-color: #8fd3f5;
+}
+
+.sapUxAPAnchorBar .sapUxAPAnchorBarButton .sapMBtnInner {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    height: 3rem;
+}
+
+
+
+/*.Bold {*/
+/*font-weight: bold;	*/
+/*}*/
+
+/*.Anchor#__xmlview0--ObjectPageLayout-anchBar {*/
+/*    padding-left: 2rem;*/
+/*    background-color: #64b6c9;*/
+/*}*/
+
+/*.Anchor {*/
+/*    padding-left: 2rem;*/
+/*    background-color: #779bb9;*/
+/*}*/
+
+.tableBorderWeight {
+    border-bottom: solid 2px #a29c9c !important
+}
+
+.TableBorder .sapMListTblCell {
+    border: 1px solid #ccc !important;
+    border-bottom: 1px solid #ccc !important;
+    border-right: 1px solid #ccc !important
+}
+
+span#idEditDelDialog-title-inner {
+    color: #076699 !important;
+    font-family: system-ui !important;
+}
+
+div#idToolEmpDet {
+    background: #ea4335 !important;
+    border-width: thick;
+}
+
+div#idToolGrievDet {
+    background: #f3b604 !important;
+    border-width: thick;
+}
+
+.blackFont {
+    color: black !important;
+    font-size: .875rem;
+    font-family: system-ui !important;
+    font-weight: normal;
+    display: inline-block;
+    white-space: nowrap;
+    cursor: text;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.WhiteFont {
+    color: white !important;
+    font-size: .875rem;
+    font-family: system-ui !important;
+    font-weight: bold;
+    display: inline-block;
+    white-space: nowrap;
+    cursor: text;
+    overflow: hidden;
+    box-sizing: border-box;
+    font-style: normal !important;
+}
+
+.greenFont {
+    color: #056705 !important;
+    font-weight: 700;
+    font-family: system-ui;
+}
+
+.Ocolor .sapMListTbl th {
+    background: #f7f7f7;
+    border-bottom: 1px solid #e5e5e5;
+    background: #62a5e9 !important;
+}
+
+.BlueMsgFont .sapMFT {
+    /*font-family: "72","72full",Arial,Helvetica,sans-serif;*/
+    font-family: system-ui !important;
+    vertical-align: top;
+    font-size: .875rem;
+    color: blue;
+    font-weight: 700;
+}
+
+.Image .sapUxAPObjectPageHeaderStickied .sapUxAPObjectPageHeaderIdentifier .sapUxAPObjectPageHeaderObjectImage {
+    width: 8rem;
+    height: 10rem;
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+img#__image1 {
+    width: 10rem;
+    height: 8rem;
+}
+
+/*.AnchorBold .sapUxAPAnchorBar .sapUxAPAnchorBarButton .sapMBtnInner {*/
+/*    padding-left: 1rem;*/
+/*    padding-right: 1rem;*/
+/*    height: 3rem;*/
+/*    font-weight: bold;*/
+/*}*/
+
+/*.AnchorScroll.sapUxAPAnchorBar.sapUxAPAnchorBarScrollLeft .anchorBarArrowLeft,*/
+/*.sapUxAPAnchorBar.sapUxAPAnchorBarScrollRight .anchorBarArrowRight {*/
+/*    height: 3rem;*/
+/*    position: sticky;*/
+/*    top: 0;*/
+/*    z-index: 1;*/
+/*}*/
+
+element.style {}
+
+.sapUxAPAnchorBar.sapUxAPAnchorBarScrollRight .anchorBarArrowRight,
+html[dir=rtl] .sapUxAPAnchorBar.sapUxAPAnchorBarScrollLeft .anchorBarArrowLeft {
+
+    background: linear-gradient(to right, #779bb9 0, #779bb9 75%, rgba(239, 244, 249, 0) 100%);
+
+    box-shadow: inset 0 -0.125rem #d1e0ee;
+}
+
+div#idAttachToolbar {
+    padding: 0 1rem 0 0.75rem;
+    /* background: #22bb73; */
+    background: #4285f4 !important;
+    border-width: thick;
+}
+
+.AnchorSlider.AButton.sapUxAPAnchorBar.sapUxAPAnchorBarScrollRight .anchorBarArrowRight,
+html[dir=rtl] .sapUxAPAnchorBar.sapUxAPAnchorBarScrollLeft .anchorBarArrowLeft {
+    background: transparent;
+    box-shadow: inset 0 -0.125rem #d1e0ee;
+}

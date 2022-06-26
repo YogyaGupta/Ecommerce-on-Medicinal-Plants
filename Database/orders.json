@@ -1,0 +1,191 @@
+[{
+  "_id": {
+    "$oid": "628de3841f88c41c86b1579f"
+  },
+  "user": {
+    "$oid": "628de35b1f88c41c86b1578d"
+  },
+  "orderItems": [
+    {
+      "name": "Aloe Vera ",
+      "qty": 1,
+      "image": "/images/aloevera.jpg",
+      "price": 75,
+      "product": {
+        "$oid": "62755fcb9f4b1e299a513a44"
+      },
+      "_id": {
+        "$oid": "628de3841f88c41c86b157a0"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "address": "h.no 154 sec 2",
+    "area": "jankipuram",
+    "city": "LUCKNOW",
+    "postalCode": "226031",
+    "country": "India"
+  },
+  "paymentMethod": "RazorPay",
+  "taxPrice": 0,
+  "shippingPrice": 20,
+  "totalPrice": 95,
+  "isPaid": false,
+  "isDelivered": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653465988191"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653466415778"
+    }
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": {
+      "$numberLong": "1653466415775"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62900cf71f88c41c86b15829"
+  },
+  "user": {
+    "$oid": "628de6501f88c41c86b157de"
+  },
+  "orderItems": [
+    {
+      "name": "Fenugreek",
+      "qty": 1,
+      "image": "/images/fenugreek.jpg",
+      "price": 90,
+      "product": {
+        "$oid": "62757d589f4b1e299a513b36"
+      },
+      "_id": {
+        "$oid": "62900cf71f88c41c86b1582a"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "address": "h.no 154 sec 2",
+    "area": "Indra Nagar",
+    "city": "LUCKNOW",
+    "postalCode": "226031",
+    "country": "India"
+  },
+  "paymentMethod": "RazorPay",
+  "taxPrice": 0,
+  "shippingPrice": 20,
+  "totalPrice": 110,
+  "isPaid": false,
+  "isDelivered": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653607671685"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653607697151"
+    }
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": {
+      "$numberLong": "1653607697149"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62900d761f88c41c86b15850"
+  },
+  "user": {
+    "$oid": "62900d5b1f88c41c86b15846"
+  },
+  "orderItems": [
+    {
+      "name": "Turmeric",
+      "qty": 1,
+      "image": "/images/Turmeric.jpg",
+      "price": 65,
+      "product": {
+        "$oid": "627612063ef394a64db4b874"
+      },
+      "_id": {
+        "$oid": "62900d761f88c41c86b15851"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "address": "h.no 154 sec 2",
+    "area": "jankipuram",
+    "city": "LUCKNOW",
+    "postalCode": "226031",
+    "country": "India"
+  },
+  "paymentMethod": "RazorPay",
+  "taxPrice": 0,
+  "shippingPrice": 20,
+  "totalPrice": 85,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653607798715"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653607798715"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62978cd887b587634976c044"
+  },
+  "user": {
+    "$oid": "62978ca887b587634976c03d"
+  },
+  "orderItems": [
+    {
+      "name": "Aloe Vera ",
+      "qty": 10,
+      "image": "/images/aloevera.jpg",
+      "price": 90,
+      "product": {
+        "$oid": "6290e874359113c4c1d3071e"
+      },
+      "_id": {
+        "$oid": "62978cd887b587634976c045"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "address": "Tower 9 and 10 Upper Ground floor, ",
+    "area": "1st & 2nd Floor Building No.10 IT/ITes SEZ M/s Seaview Developers",
+    "city": "Noida",
+    "postalCode": "201301",
+    "country": "India"
+  },
+  "paymentMethod": "RazorPay",
+  "taxPrice": 0,
+  "shippingPrice": 0,
+  "totalPrice": 900,
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654099160760"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654099160760"
+    }
+  },
+  "__v": 0
+}]

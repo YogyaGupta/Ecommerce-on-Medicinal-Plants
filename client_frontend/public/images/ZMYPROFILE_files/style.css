@@ -1,0 +1,48 @@
+.sapUshellShellHeadTitle {
+    text-align: initial;
+    text-overflow: ellipsis;
+    line-height: 1.25rem !important
+}
+
+.sapUshellHeadTitle {
+    font-weight: normal;
+    font-size: 0.85rem;
+    /*color: indigo;*/
+}
+
+span#shell-header-hdr-shell-title:before {
+    float: right;
+    width: calc(100% - 22.5em);
+    /* Adjust length using this value */
+    height: 0.8em;
+    content: '';
+}
+
+span#shell-header-hdr-shell-title {
+    float: right;
+    background-image: linear-gradient(to bottom, green 1.5em, red 1.25em, red);
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+@media only screen and (max-width: 600px) {
+    span#shell-header-hdr-shell-title {
+        font-size: 0.5rem;
+        line-height: 0.8rem !important
+    }
+}
+
+@media all and (-ms-high-contrast: none),
+(-ms-high-contrast: active) {
+    span#shell-header-hdr-shell-title {
+        float: right;
+        background-image: none;
+        color: indigo;
+        /*background-image: linear-gradient(to bottom, green 1.5em, red 1.25em, red);
+	color:transparent;
+	-webkit-text-fill-color: transparent;
+            -webkit-background-clip: text;*/
+
+    }
+}

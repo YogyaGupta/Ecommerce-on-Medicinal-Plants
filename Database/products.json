@@ -1,0 +1,461 @@
+[{
+  "_id": {
+    "$oid": "6290e678359113c4c1d306fe"
+  },
+  "name": "Tulsi",
+  "image": "/images/tulsi.jpg",
+  "description": "Tulsi has abundant amounts of antioxidants and micronutrients that help fight common ailments like cold, flu, fever, asthma, etc.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 17,
+  "countInStock": 15,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653663352626"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653663352626"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6290e733359113c4c1d30716"
+  },
+  "name": "Kapoor Tulsi",
+  "image": "/images/kapoor-tulsi.jpg",
+  "description": "Help in the treatment of bronchitis, malaria, diarrhoea, dysentery, skin disease, arthritis, eye disease and insect bites.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 39,
+  "countInStock": 12,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653663539731"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653663539731"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6290e79f359113c4c1d3071a"
+  },
+  "name": "Lemon Balm",
+  "image": "/images/LemonBalm.jpg",
+  "description": "Reduces Stress and anxiety, promote sleep, improve appetite, and ease pain and discomfort from indigestion.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 200,
+  "countInStock": 5,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653663647324"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653663647324"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6290e874359113c4c1d3071e"
+  },
+  "name": "Aloe Vera ",
+  "image": "/images/aloevera.jpg",
+  "description": "Aloe Vera is a medicinal plant that’s been used to treat various health conditions for thousands of years. It’s usually safe to use also vera directly from the plant or you can buy it in gel form.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 90,
+  "countInStock": 12,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653663860517"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653663860517"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6290e90c359113c4c1d30724"
+  },
+  "name": "Basil",
+  "image": "/images/Basil.jpg",
+  "description": "Basil is commonly used for stomach problems such as spasms, loss of appetite, intestinal gas, diarrhea, constipation, and many other conditions",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 330,
+  "countInStock": 2,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653664012937"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653664012937"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6290e97b359113c4c1d3072c"
+  },
+  "name": "Ashwagandha",
+  "image": "/images/ashwagandha.jpg",
+  "description": "Ashwagandha contains chemicals that might help calm the brain, reduce swelling, lower blood pressure, and alter the immune system.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 50,
+  "countInStock": 5,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653664123948"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653664123948"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6290ea17359113c4c1d30730"
+  },
+  "name": "Fenugreek",
+  "image": "/images/fenugreek.jpg",
+  "description": "Fenugreek is taken by mouth for digestive problems such as loss of appetite, upset stomach, constipation, inflammation of the stomach (gastritis). It is also used for diabetes, painful menstruation, polycystic ovary syndrome, and obesity",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 99,
+  "countInStock": 9,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653664279185"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653664279185"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6290ea78359113c4c1d30734"
+  },
+  "name": "Insulin",
+  "image": "/images/insulin.jpg",
+  "description": "Consumption of the leaves are believed to lower blood glucose levels, and diabetics who consumed the leaves of this plant said to have a fall in their blood glucose levels.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 100,
+  "countInStock": 6,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653664376131"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653664376131"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6290eaec359113c4c1d3073e"
+  },
+  "name": "Lavender",
+  "image": "/images/lavender.jpg",
+  "description": "Aromatherapists use lavender in inhalation therapy to treat headaches, nervous disorders, and exhaustion. ",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 50,
+  "countInStock": 10,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653664492294"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653664492294"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6290ec32359113c4c1d30742"
+  },
+  "name": "Lemon Grass",
+  "image": "/images/lemonGrass.jpg",
+  "description": "Lemongrass tea helps to improve oral health, relieve bloating, and lowers cholesterol.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 120,
+  "countInStock": 5,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653664818879"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653664818879"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6290ec8e359113c4c1d30746"
+  },
+  "name": "Pepper Mint",
+  "image": "/images/pepperMint.jpg",
+  "description": "Peppermint is used for the common cold, cough, inflammation of the mouth and throat, sinus infections, and other respiratory infections.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 150,
+  "countInStock": 6,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653664910446"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653664910446"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6290eceb359113c4c1d3074c"
+  },
+  "name": "Sage",
+  "image": "/images/Sage.jpg",
+  "description": "Sage is used for digestive problems, including loss of appetite, gas (flatulence), stomach pain (gastritis), diarrhea, bloating, and heartburn.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 119,
+  "countInStock": 5,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653665003281"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653665003281"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6291126c359113c4c1d30750"
+  },
+  "name": "Turmeric",
+  "image": "/images/Turmeric.jpg",
+  "description": "Turmeric is used as an herbal medicine for rheumatoid arthritis, chronic anterior uveitis, conjunctivitis, skin cancer, small pox, chicken pox, wound healing, urinary tract infections, and liver ailments.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 165,
+  "countInStock": 5,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653674604104"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653674604104"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629112d7359113c4c1d30754"
+  },
+  "name": "Vasaka",
+  "image": "/images/Vasaka.jpg",
+  "description": "Vasaka holds high significance in treating the common cold, cough and flu symptoms",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 160,
+  "countInStock": 5,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653674711705"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653674711705"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6291134c359113c4c1d30758"
+  },
+  "name": "Panfuti",
+  "image": "/images/Pnfuti.jpg",
+  "description": "They are eaten for diabetes, diuresis, dissolving kidney stones, respiratory tract infections, as well as applied to wounds, boils, and insect bites. It is useful for preventing alcoholic, viral and toxic liver damages.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 169,
+  "countInStock": 4,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653674828900"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653674828900"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629113fc359113c4c1d3075e"
+  },
+  "name": "Khus",
+  "image": "/images/Khus.jpg",
+  "description": "It has a remedy for severe abdominal pain, vomiting and gout",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 250,
+  "countInStock": 3,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653675004265"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653675004265"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62911440359113c4c1d30764"
+  },
+  "name": "Neem",
+  "image": "/images/curry.jpg",
+  "description": "Neem have a distinct bitter and pungent taste with acidic undertones. The leaves are not only sought after for their aromatic flavor in the foods, but also enhance the health benefits of the meal making it more appealing.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 40,
+  "countInStock": 10,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653675072221"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653675072221"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62911489359113c4c1d30768"
+  },
+  "name": "Geloy",
+  "image": "/images/geloy.jpg",
+  "description": "Giloy juice also detoxifies your skin and improve your skin. It is also used for liver diseases, urinary tract infections, and heart-related issues.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 100,
+  "countInStock": 4,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653675145946"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653675145946"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62911509359113c4c1d3077a"
+  },
+  "name": "Ajwain",
+  "image": "/images/ajwain.jpg",
+  "description": "Ajwain(Carom) seeds have long been used in traditional Indian cuisine and Ayurvedic medicine. They have been shown to possess antibacterial and anti-inflammatory effects and may be effective in treating peptic ulcers and reducing blood pressure and cholesterol levels.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 250,
+  "countInStock": 6,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653675273672"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653675273672"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62911556359113c4c1d3077e"
+  },
+  "name": "Bay Leaf",
+  "image": "/images/bay_leaf.jpg",
+  "description": "Traditionally, it has been used as herbal medicine against number of diseases such as rheumatism, sprains, indigestion, earaches, and to enhance perspiration ",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 170,
+  "countInStock": 9,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653675350514"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653675350514"
+    }
+  },
+  "__v": 0
+}]

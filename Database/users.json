@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "628b378451af43c679b85358"
+  },
+  "name": "Yogya Gupta",
+  "contact": {
+    "$numberLong": "9044793047"
+  },
+  "email": "gyogya412@gmail.com",
+  "password": "$2a$10$TmVF02Bih6Zi1s5uruEUf.N.zXNoAdCLfgSXyewbEb8bD0SW0UZ6a",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653290884937"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653290884937"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628de35b1f88c41c86b1578d"
+  },
+  "name": "Anupam Gupta",
+  "contact": {
+    "$numberLong": "7985159349"
+  },
+  "email": "anupam206@gmail.com",
+  "password": "$2a$10$4zB8kbUgyYdZDGeNMqnVX.Sa6nzGeofknNRloeFB6cHA.CWkcXKZi",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653465948022"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653465948022"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628de6501f88c41c86b157de"
+  },
+  "name": "Ravi Kumar",
+  "contact": {
+    "$numberLong": "7868341986"
+  },
+  "email": "ravi234@yahoo.com",
+  "password": "$2a$10$zpk7YYTZa4UA6ncmD4isleF566vyt0CljkvvhIgyPyHi4sdid3O7O",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653466704480"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653466704480"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62900d5b1f88c41c86b15846"
+  },
+  "name": "Alok Kumar",
+  "contact": {
+    "$numberLong": "8520963741"
+  },
+  "email": "alok23@gmail.com",
+  "password": "$2a$10$bMPqQRLxG55NV/UAy9i93.jJNw8OUQP0FQ1jA73GUh7BKNU2uxZxS",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653607771600"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653607771600"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62978ca887b587634976c03d"
+  },
+  "name": "Rohan Verma",
+  "contact": {
+    "$numberLong": "7985161651"
+  },
+  "email": "rohan32@gmail.com",
+  "password": "$2a$10$20uKlgKR4vB9HYwdnXztCuRQ6yWCkohPF85Ag38nCiNhcFJF5Xtuq",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654099112568"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654099112568"
+    }
+  },
+  "__v": 0
+}]
