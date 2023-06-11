@@ -1,0 +1,64 @@
+/**
+* Copyright (c) 2013 SAP AG, All Rights Reserved
+*
+* Theming Engine 1.16.19
+* data:{"Path": "UI5.sap/ui/core.sbiofficial.custom", "PathPattern": "/%frameworkId%/%libId%/themes/%themeId%/%fileId%.css", "IECssRuleLimitFiles": [], "Extends": ["sap_bluecrystal","base"], "Version": { "Build":"1.38.18.20180807131354", "Source": "1.38.18", "Engine": "1.16.19"}}
+*/
+
+.sapThemeMetaData-UI5-sap-ui-core{background-image: url('data:text/plain;utf-8,{"Path": "UI5.sap/ui/core.sbiofficial.custom", "PathPattern": "/%frameworkId%/%libId%/themes/%themeId%/%fileId%.css", "IECssRuleLimitFiles": [], "Extends": ["sap_bluecrystal","base"], "Version": { "Build":"1.38.18.20180807131354", "Source": "1.38.18", "Engine": "1.16.19"}}');}
+/******************* FILE /Base/baseLib/baseTheme/base.less (Version 10.30.6.252135.0) *******************/
+.sapSvgLibs {
+  background-image: none, url(../../../../../../Base/baseLib/sap_bluecrystal/svg/libs/SAPGUI-icons.svg), none;
+}
+.sapSvgIconPositive {
+  fill: #007833 !important;
+}
+.sapSvgIconCritical {
+  fill: #d14900 !important;
+}
+.sapSvgIconNegative {
+  fill: #cc1919 !important;
+}
+/******************* FILE /Base/baseLib/sap_goldreflection/base.less (Version 10.30.6.252135.0) *******************/
+/******************* FILE /Base/baseLib/sap_bluecrystal/base.less (Version 10.30.6.252135.0) *******************/
+/******************* FILE /Base/baseLib/sbiofficial/custom.less (Version 10.30.6.252135.0) *******************/
+
+
+/******************* FILE /Base/baseLib/sbiofficial/base.less (Version 10.30.6.252135.0) *******************/
+/******************* FILE /UI5/sap/ui/core/themes/base/global.less (Version 1.38.18) *******************/
+
+
+/******************* FILE /UI5/sap/ui/core/themes/sap_bluecrystal/global.less (Version 1.38.18) *******************/
+/******************* FILE /UI5/sap/ui/core/themes/sbiofficial/custom.less (Version 1.38.18) *******************/
+
+* {
+  font-family: "Open Sans";
+  font-style: "Bold";
+}
+.sapMTextMaxLine {
+  font-weight: bold;
+}
+.sapMCbBg.sapMCbMarkChecked:before {
+  content: "\e05b";
+  font-family: "SAP-icons";
+  color: #898989;
+}
+.sapUiTableRowHdr.sapUiTableRowSel::after {
+  content: '\e05b';
+  color: #898989;
+}
+.sapUiTableRowHdr.sapUiTableRowSel {
+  content: '\e05b';
+  color: #898989;
+}
+.sapMLabelRequired:before {
+  color: #FF0000;
+  font-size: 1 rem;
+}
+.sapMRbSel .sapMRbBInn {
+  background-color: #280071;
+}
+html.sap-desktop .sapMMessageToast {
+  background: #f0f4f7;
+}
+
