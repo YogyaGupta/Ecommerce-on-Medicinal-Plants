@@ -34,7 +34,7 @@ const ShopSection = (props) => {
                   <Message variant="alert-danger">{error}</Message>
                 ) : (
                   <>
-                    
+                    try{
                     {products.map((products) => (
                       <div  
                         className="shop col-lg-4 col-md-6 col-sm-6"
@@ -63,7 +63,7 @@ const ShopSection = (props) => {
                         </div>
                       </div>
                     ))}
-                    
+                    }
                   </>
                   
                 )}
